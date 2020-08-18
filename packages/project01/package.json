@@ -1,6 +1,6 @@
 {
   "name": "project01",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "> TODO: description",
   "author": "gangking <gang.xiong1@pactera.com>",
   "homepage": "https://github.com/gangking/lernaStudyProject#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/gangking/lernaStudyProject/issues"
   },
   "dependencies": {
-    "admin": "^1.1.4",
+    "admin": "^1.1.5",
     "chalk": "^4.1.0"
   },
   "gitHead": "7d290bbb91dca70094f0e6f666809dfd94d02df4"
