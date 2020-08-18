@@ -29,5 +29,6 @@
   "dependencies": {
     "admin": "^1.1.4",
     "chalk": "^4.1.0"
-  }
+  },
+  "gitHead": "7d290bbb91dca70094f0e6f666809dfd94d02df4"
 }
